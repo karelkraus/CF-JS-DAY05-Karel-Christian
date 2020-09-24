@@ -1,0 +1,85 @@
+
+var employees = `
+
+[{
+  
+      "uniqueId": "1",
+      "firstName": "Patrik",
+      "lastName": "Jonathan",
+      "emailAddress": "patrik.k.jonathan@gmail.com",
+      "jobTitle": "Developer",
+      "salary": "2000 €"
+      
+  }, {
+      "uniqueId": "2",
+      "firstName": "Dominik",
+      "lastName": "Ringbauer",
+      "emailAddress": "dominik.ringbauer@gmail.com",
+      "jobTitle": "Developer",
+      "salary": "1000 €"
+      
+  }, {
+      "uniqueId": "3",
+      "firstName": "Aaron",
+      "lastName": "Bumberger",
+      "emailAddress": "aaron.bumberger@gmail.com",
+      "jobTitle": "Developer",
+      "salary": "2300 €"
+      
+  }, {
+      "uniqueId": "4",
+      "firstName": "Adam",
+      "lastName": "Al-Salehi",
+      "emailAddress": "adam-alsalehi@gmail.com",
+      "jobTitle": "Developer",
+      "salary": "1500 €"
+      
+  }, {
+      "uniqueId": "5",
+      "firstName": "Alejandro",
+      "lastName": "Rodriguez",
+      "emailAddress": "alejandro.rodruigez@gmail.com",
+      "jobTitle": "Developer",
+      "salary": "1900 €"
+      
+  }, {
+      "uniqueId": "6",
+      "firstName": "George",
+      "lastName": "Ciocan",
+      "emailAddress": "george.ciocan@gmail.com",
+      "jobTitle": "Developer",
+      "salary": "2000 €"
+      
+  }, {
+      "uniqueId": "7",
+      "firstName": "Christian",
+      "lastName": "Sandner",
+      "emailAddress": "christian.sandner@gmail.com",
+      "jobTitle": "Developer",
+      "salary": "2200 €"
+      
+  }, {
+      "uniqueId": "8",
+      "firstName": "Christian",
+      "lastName": "Frömmer",
+      "emailAddress": "christian.froemmer@gmail.com",
+      "jobTitle": "Developer",
+      "salary": "2000 €"
+      
+  }, {
+      "uniqueId": "9",
+      "firstName": "Christian",
+      "lastName": "Bodenwinkler",
+      "emailAddress": "christian.bodenwinkler@gmail.com",
+      "jobTitle": "Developer",
+      "salary": "1900 €"
+      
+  }, {
+      "uniqueId": "10",
+      "firstName": "Daniel",
+      "lastName": "Matzer",
+      "emailAddress": "daniel.matzer@gmail.com",
+      "jobTitle": "Developer",
+      "salary": "1800 €"
+       
+  }] `
