@@ -1,0 +1,21 @@
+var books =  `
+[{"title": "book no1",
+   "author": "Dummy Dumb Dumb",
+   "read": "true",
+   "image": "book1.jpg"
+  },
+{"title": "book no2",
+   "author": "Not so dumb",
+   "read": "false",
+   "image": "book2.jpg"
+},
+{"title": "book no3",
+   "author": "some guy",
+   "read": "true",
+   "image": "book3.jpg"
+},
+{"title": "book no4",
+   "author": "someone",
+   "read": "false",
+   "image": "book1.jpg"
+}]`
